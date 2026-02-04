@@ -37,6 +37,7 @@ print(c is d)
   User table fields: id, name, email, phone, createDate
 ```
 * Why is the concurrent performance of Python so low? How can we improve the concurrent performance? Please explain the GC mechanism.
+* What is your code development process like? How do you ensure the quality of your code? Will you be more proactive in conducting unit tests and inheritance tests? If so, what is your test coverage rate?
 * Are there any AI scenarios in Odoo where AI has helped solve those practical problems?
 * Please identify the flaws in the following code and optimize it.
 ```
